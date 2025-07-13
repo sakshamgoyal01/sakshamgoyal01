@@ -49,87 +49,36 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 | 📦 Trivy + ArgoCD            | Auto CVE scan, auto rollback, SBOM in GitOps deployments         |
 
 ---
-
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
-        <img src="https://skillicons.dev/icons?i=kubernetes,trivy,python" height="30" />
-        <br><br>
-        <b>🔐 AI‑SOC Co‑Pilot</b><br>
-        <sub>⚙️ K8s, Trivy, LangChain</sub><br>
-        <p align="justify">
-        Real-time CVE scans enriched by LLM insights, SlackOps integration & automated remediation for secure-by-design pipelines.
-        </p>
-      </a>
-    </td>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01" target="_blank">
-        <img src="https://skillicons.dev/icons?i=jenkins,terraform,aws" height="30" />
-        <br><br>
-        <b>☁️ Zero Trust CI/CD</b><br>
-        <sub>⚙️ Jenkins, Terraform, GuardDuty</sub><br>
-        <p align="justify">
-        SBOM generation, SonarQube code scans, Slack alerts & IAM enforcement to enable policy-driven deployments.
-        </p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
-        <img src="https://skillicons.dev/icons?i=fastapi,streamlit,python" height="30" />
-        <br><br>
-        <b>🧪 TestPilot AI</b><br>
-        <sub>⚙️ LLM, FastAPI, Streamlit</sub><br>
-        <p align="justify">
-        AI-powered assistant to automate test case creation & analysis in DevSecOps and ML pipelines.
-        </p>
-      </a>
-    </td>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
-        <img src="https://skillicons.dev/icons?i=helm,istio,mongodb" height="30" />
-        <br><br>
-        <b>🐙 K8s 11‑Service Mesh</b><br>
-        <sub>⚙️ Helm, Istio, MongoDB, Redis</sub><br>
-        <p align="justify">
-        Robust multi-service mesh architecture, Redis caching, and live Grafana dashboards for real-time observability.
-        </p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python,security" height="30" />
-        <br><br>
-        <b>🛡️ Pentesting CLI</b><br>
-        <sub>⚙️ Python, OWASP</sub><br>
-        <p align="justify">
-        Modular CLI tool scanning for OWASP Top 10 vulnerabilities, generates clean HTML security reports.
-        </p>
-      </a>
-    </td>
-    <td width="400" valign="top">
-      <a href="https://github.com/sakshamgoyal01" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python,slack" height="30" />
-        <br><br>
-        <b>🔎 Multi‑Hash Analyzer</b><br>
-        <sub>⚙️ Python, SlackBot</sub><br>
-        <p align="justify">
-        Password hash analysis, file system monitoring & Slack CI/CD notifications for proactive threat detection.
-        </p>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Row 1 -->
+<a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
+  <img width="380" alt="AI‑SOC Co‑Pilot" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=ai-soc-copilot&theme=tokyonight&border_radius=20">
+</a>
+<a href="https://github.com/sakshamgoyal01" target="_blank">
+  <img width="380" alt="Zero Trust CI/CD" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=zero-trust-cicd&theme=tokyonight&border_radius=20">
+</a>
+
+<!-- Row 2 -->
+<a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
+  <img width="380" alt="TestPilot AI" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=testpilot-ai&theme=tokyonight&border_radius=20">
+</a>
+<a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
+  <img width="380" alt="K8s 11‑Service Mesh" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=k8s-11-services&theme=tokyonight&border_radius=20">
+</a>
+
+<!-- Row 3 -->
+<a href="https://github.com/sakshamgoyal01" target="_blank">
+  <img width="380" alt="Pentesting CLI" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=pentesting-cli&theme=tokyonight&border_radius=20">
+</a>
+<a href="https://github.com/sakshamgoyal01" target="_blank">
+  <img width="380" alt="Multi‑Hash Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=multi-hash-analyzer&theme=tokyonight&border_radius=20">
+</a>
 
 </div>
+
 
 
 ---
