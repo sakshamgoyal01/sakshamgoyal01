@@ -31,34 +31,71 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ---
 
+---
+
 ## ⚙️ Tech Arsenal
 
-### 🚀 Core Proficiencies
+<!-- Tech Cards Row 1 -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- **Languages:** Python 🐍 • Bash 🖥️ • YAML 📘  
-- **Cloud Platforms:** AWS ☁️ • Azure 💠 • EC2 • VPC • IAM  
-- **Containers & Orchestration:** Docker 🐳 • Kubernetes ⛵ • Helm ⚓ • MicroK8s  
-- **Infrastructure as Code:** Terraform ⚒️ • Argo CD 🌀 • AWS Verified Access 🔐  
+### 🛠️ Core Skills
+- **Languages:** Python, Bash, YAML  
+- **Cloud Platforms:** AWS, Azure, EC2, VPC, IAM  
+- **OS & Shell:** Linux, GNU Bash
 
-### 🛡️ DevSecOps Toolchain
+</td>
+<td width="50%" valign="top">
 
-- **Security & Analysis:** Trivy 🔍 • SonarQube 🧠 • Syft • Grype • OPA + Gatekeeper  
-- **Secrets & Compliance:** Vault 🔐 • SealedSecrets 🧷 • SBOM 📦  
-- **Monitoring & Alerts:** Prometheus 📊 • Loki 📁 • Slack Alerts 🔔 • GuardDuty 🛡️  
+### 🚢 Container & Infra
+- **Containers:** Docker, Kubernetes, Helm, MicroK8s  
+- **IaC:** Terraform, Argo CD  
+- **Zero Trust:** AWS Verified Access, SealedSecrets
 
-### 🤖 AI / LLM Stack
+</td>
+</tr>
 
-- **Frameworks:** LangChain 🧠 • HuggingFace 🤗 • Sentence Transformers  
-- **Models & APIs:** OpenAI 💬 • Gemini 🧪 • DeepSeek • Cohere  
-- **Apps:** FastAPI ⚡ • Streamlit 📺 • Pinecone 🔎 • Weaviate 🧬  
+<!-- Tech Cards Row 2 -->
+<tr>
+<td width="50%" valign="top">
 
-### 🔄 CI/CD & Automation
+### 🛡️ DevSecOps Stack
+- **Security Tools:** Trivy, Grype, Syft, SonarQube  
+- **Compliance:** OPA, SBOM, Vault  
+- **Alerts & Events:** GuardDuty, Slack Notifiers
 
-- **CI Engines:** Jenkins 💥 • GitHub Actions ⚙️  
-- **Testing & QA:** Pytest 🧪 • OWASP ZAP ⚔️ • Custom YAML Validators  
-- **Deployment:** GitOps 🚀 • Auto Remediation 🛠️ • Slack/Email Notifications 📤  
+</td>
+<td width="50%" valign="top">
 
+### 🤖 AI & LLMs
+- **Frameworks:** LangChain, HuggingFace, Sentence Transformers  
+- **APIs:** OpenAI, Gemini, DeepSeek  
+- **Apps:** FastAPI, Streamlit, Weaviate, Pinecone
 
+</td>
+</tr>
+
+<!-- Tech Cards Row 3 -->
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Automation
+- **CI/CD Engines:** Jenkins, GitHub Actions  
+- **GitOps Tools:** Argo CD, Vault Integration  
+- **Testing:** OWASP ZAP, Pytest, YAML Validators
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Monitoring & Observability
+- **Metrics:** Prometheus, Grafana  
+- **Logs:** Loki, ELK Stack  
+- **Security Watch:** Trivy FS, CVE Watcher
+
+</td>
+</tr>
+</table>
 
 ---
 
