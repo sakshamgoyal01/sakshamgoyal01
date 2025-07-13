@@ -1,77 +1,100 @@
-<!-- Enhanced GitHub Profile README by Saksham Goyal -->
 
-<div align="center">
+<!-- 💫 Saksham Goyal GitHub Profile README - Master Aesthetic Edition -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saksham+Goyal;DevSecOps+%7C+Cloud+Engineer+%7C+AI+Innovator;Building+Zero+Trust+Security+%2B+LLM+Automation" alt="Typing SVG" />
-
-<img src="https://img.shields.io/badge/AZ--400%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitOps%20with%20Argo%20CD-blueviolet?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20SOC%20Builder-brightgreen?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
----
-
-### 🧠 About Me
-
-> I’m a **Final-Year B.Tech CSE (AI & ML)** student, driven to secure and automate cloud-native systems using cutting-edge **DevSecOps + AI + Zero Trust** strategies.
-
-- 🚀 Entry-level **DevSecOps Engineer**
-- 🧪 Passionate about building real-world projects using **Kubernetes**, **Terraform**, **Jenkins**, **LLMs**, and **Cloud Security**
-- 🔒 Obsessed with **Security-as-Code**, **SBOM automation**, and **SOC pipelines**
-- 🛠️ Active contributor of open-source security and AI tools
-
----
-
-### ⚙️ Tech Stack & Tools
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00ADB5">Saksham Goyal</span></h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,git,github,aws,terraform,linux,jenkins,fastapi,streamlit,vscode,sonarqube,pytorch,mysql" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=true&width=600&lines=DevSecOps+Engineer+%7C+Cloud-Native+Automator;LLM+Security+%7C+GitOps+%7C+Zero+Trust+Architect;Passionate+about+Securing+the+Future!+%F0%9F%94%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 Top Projects (Open Source & Real-World)
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
 
-| 🚀 Project | Tech Stack | What It Does |
-|-----------|------------|---------------|
-| [🔐 AI-SOC Co-Pilot](https://github.com/sakshamgoyal01) | K8s, LLM, Trivy, LangChain, ArgoCD | Real-time AI-driven SOC with CVE triage, SBOM, auto-remediation |
-| [☁️ DevSecOps CI/CD](https://github.com/sakshamgoyal01) | Jenkins, Terraform, SonarQube, Verified Access | Secures pipeline from code → deployment with vulnerability gates |
-| [🛡️ Web Pentesting Suite](https://github.com/sakshamgoyal01) | Python, OWASP, CLI | Scans Top 10 OWASP vulns on test apps with visual output |
-| [🔍 Multi-Hash Cracker](https://github.com/sakshamgoyal01) | Python, Trivy, SlackBot | Analyzes & cracks password hashes + FS scanning CI pipeline |
+---
+
+### 🚀 About Me
+
+```yaml
+name: Saksham Goyal
+title: DevSecOps + AI Security Engineer
+location: Delhi, India
+tech_focus:
+  - Secure CI/CD (Jenkins + GitHub Actions + Trivy + SonarQube)
+  - LLM Automation (LangChain + Transformers)
+  - Cloud-Native DevOps (K8s + Terraform + Argo CD)
+certified:
+  - Microsoft AZ-400
+  - Google Cloud GenAI
+  - AWS Solutions Architect (Simulated)
+````
+
+* 👨‍🎓 Final Year B.Tech CSE – AI/ML @ AKTU
+* 🛠️ Contributor of real-world open-source tools
+* 📦 Blending DevOps, AI, and Zero Trust into powerful pipelines
+* 🎯 Mission: Build secure, scalable, smart platforms
+
+---
+
+### ⚙️ Tech Stack I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,terraform,aws,git,github,linux,jenkins,fastapi,vscode,streamlit,pytorch" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| 💡 Project                                                            | ⚙️ Stack                      | 🚀 Description                                              |
+| --------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------- |
+| [🔐 AI-SOC Co-Pilot](https://github.com/sakshamgoyal01)               | K8s, Trivy, LangChain, ArgoCD | Intelligent security ops agent powered by LLMs & SBOM       |
+| [☁️ DevSecOps Zero Trust Pipeline](https://github.com/sakshamgoyal01) | Jenkins, Terraform, GuardDuty | Full CI/CD with FS scanning, quality gates, Verified Access |
+| [🛡️ Web Pentesting Suite](https://github.com/sakshamgoyal01)         | Python, CLI                   | Modular tool scanning OWASP Top 10 + visualization          |
+| [🔍 Multi-Hash Analyzer](https://github.com/sakshamgoyal01)           | Python, Trivy, Slack Alerts   | Cracks and analyzes password hashes + live pipeline scan    |
 
 ---
 
 ### 📜 Certifications
 
-- ✅ **Microsoft AZ-400** – Enterprise DevOps Engineering (May 2025)
-- ☁️ **AWS Forage Virtual Internship** – Solutions Architecture (Dec 2024)
-- 🤖 **Google Cloud** – Generative AI (Prompting, LLMs, Gemini, DeepSeek)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20AZ--400-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI-red?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Forage%20Simulation-yellowgreen?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-<img src="https://streak-stats.demolab.com?user=sakshamgoyal01&theme=radical&hide_border=true" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=radical&hide_border=true" height="180px" />
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgoyal01\&show_icons=true\&theme=algolia\&hide_border=true\&count_private=true\&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01\&layout=compact\&theme=algolia\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sakshamgoyal01\&theme=algolia\&hide_border=true)
 
 </div>
 
 ---
 
-### 📬 Let's Connect & Collaborate!
+### 💬 Let’s Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:sakshamgoyal0301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/saksham-goyal-ab3a1817b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sakshamgoyal01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:sakshamgoyal0301@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saksham-goyal-ab3a1817b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sakshamgoyal01"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakshamgoyal01&style=flat-square&color=blue" alt="Profile views" />
+  <br>
+  <i>“Let’s automate, secure, and deploy the future — together.”</i>
 </p>
+```
+
+---
+
