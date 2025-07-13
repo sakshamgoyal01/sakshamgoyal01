@@ -55,10 +55,10 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 <!-- Row 1 -->
 <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
-  <img width="380" alt="AI‑SOC Co‑Pilot" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=ai-soc-copilot&theme=tokyonight&border_radius=20">
+  <img width="380" alt="AI‑SOC Co‑Pilot" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=ai-soc-co-pilot&theme=tokyonight&border_radius=20">
 </a>
 <a href="https://github.com/sakshamgoyal01" target="_blank">
-  <img width="380" alt="Zero Trust CI/CD" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=zero-trust-cicd&theme=tokyonight&border_radius=20">
+  <img width="380" alt="Zero Trust CI/CD" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=devsecOps-project&theme=tokyonight&border_radius=20">
 </a>
 
 <!-- Row 2 -->
@@ -66,15 +66,15 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
   <img width="380" alt="TestPilot AI" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=testpilot-ai&theme=tokyonight&border_radius=20">
 </a>
 <a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
-  <img width="380" alt="K8s 11‑Service Mesh" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=k8s-11-services&theme=tokyonight&border_radius=20">
+  <img width="380" alt="K8s 11‑Service Mesh" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=kubernetes_11services&theme=tokyonight&border_radius=20">
 </a>
 
 <!-- Row 3 -->
 <a href="https://github.com/sakshamgoyal01" target="_blank">
-  <img width="380" alt="Pentesting CLI" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=pentesting-cli&theme=tokyonight&border_radius=20">
+  <img width="380" alt="Pentesting CLI" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=Web-Application-Pentesting-Suite&theme=tokyonight&border_radius=20">
 </a>
 <a href="https://github.com/sakshamgoyal01" target="_blank">
-  <img width="380" alt="Multi‑Hash Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=multi-hash-analyzer&theme=tokyonight&border_radius=20">
+  <img width="380" alt="Multi‑Hash Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=password_hash_cracker_and_analyzer&theme=tokyonight&border_radius=20">
 </a>
 
 </div>
