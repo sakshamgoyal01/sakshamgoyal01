@@ -29,73 +29,79 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ---
 
----
-
----
-
 ## ⚙️ Tech Arsenal
 
-<!-- Tech Cards Row 1 -->
+<!-- Tech Cards Grid with Icons and Colors -->
 <table>
   <tr>
+    <!-- Core Skills -->
     <td width="50%" valign="top">
+      <h3>🛠️ <span style="color:#00ADB5;">Core Skills</span></h3>
+      <img src="https://skillicons.dev/icons?i=python,bash,linux,yaml" />
+      <br />
+      • Cloud: <strong>AWS</strong>, <strong>Azure</strong>, EC2, VPC, IAM  
+      <br />
+      • Scripting & Automation: Bash, CLI tools
+    </td>
 
-### 🛠️ Core Skills
-- **Languages:** Python, Bash, YAML  
-- **Cloud Platforms:** AWS, Azure, EC2, VPC, IAM  
-- **OS & Shell:** Linux, GNU Bash
+    <!-- Containers + IaC -->
+    <td width="50%" valign="top">
+      <h3>🚢 <span style="color:#00ADB5;">Containers & Infrastructure</span></h3>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,helm" />
+      <br />
+      • MicroK8s, GitOps (ArgoCD), Verified Access  
+      <br />
+      • SealedSecrets, Secure Infra-as-Code
+    </td>
+  </tr>
 
-</td>
-<td width="50%" valign="top">
+  <tr>
+    <!-- DevSecOps Tools -->
+    <td width="50%" valign="top">
+      <h3>🛡️ <span style="color:#00ADB5;">DevSecOps Toolchain</span></h3>
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vault" />
+      <br />
+      • CVE Scanning: Trivy, Syft, Grype  
+      <br />
+      • Policies: OPA, SBOM, Gatekeeper  
+      • Alerts: GuardDuty, Slack
+    </td>
 
-### 🚢 Container & Infra
-- **Containers:** Docker, Kubernetes, Helm, MicroK8s  
-- **IaC:** Terraform, Argo CD  
-- **Zero Trust:** AWS Verified Access, SealedSecrets
+    <!-- AI / LLMs -->
+    <td width="50%" valign="top">
+      <h3>🤖 <span style="color:#00ADB5;">LLM & AI Stack</span></h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
+      <br />
+      • LLMs: OpenAI, LangChain, Gemini, DeepSeek  
+      <br />
+      • VectorDBs: Weaviate, Pinecone  
+      • NLP Models: HuggingFace, Transformers
+    </td>
+  </tr>
 
-</td>
-</tr>
+  <tr>
+    <!-- CI/CD -->
+    <td width="50%" valign="top">
+      <h3>🔄 <span style="color:#00ADB5;">CI/CD & Automation</span></h3>
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+      <br />
+      • Pipelines: GitHub Actions, Jenkins, Vault CICD  
+      • GitOps: Argo CD + Secrets Mgmt  
+      • Test Automation: Pytest, OWASP ZAP, YAML Linters
+    </td>
 
-<!-- Tech Cards Row 2 -->
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ DevSecOps Stack
-- **Security Tools:** Trivy, Grype, Syft, SonarQube  
-- **Compliance:** OPA, SBOM, Vault  
-- **Alerts & Events:** GuardDuty, Slack Notifiers
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & LLMs
-- **Frameworks:** LangChain, HuggingFace, Sentence Transformers  
-- **APIs:** OpenAI, Gemini, DeepSeek  
-- **Apps:** FastAPI, Streamlit, Weaviate, Pinecone
-
-</td>
-</tr>
-
-<!-- Tech Cards Row 3 -->
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 CI/CD Automation
-- **CI/CD Engines:** Jenkins, GitHub Actions  
-- **GitOps Tools:** Argo CD, Vault Integration  
-- **Testing:** OWASP ZAP, Pytest, YAML Validators
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Monitoring & Observability
-- **Metrics:** Prometheus, Grafana  
-- **Logs:** Loki, ELK Stack  
-- **Security Watch:** Trivy FS, CVE Watcher
-
-</td>
-</tr>
+    <!-- Monitoring -->
+    <td width="50%" valign="top">
+      <h3>📈 <span style="color:#00ADB5;">Monitoring & Observability</span></h3>
+      <img src="https://skillicons.dev/icons?i=prometheus" />
+      <br />
+      • Metrics: Prometheus, Grafana  
+      • Logs: Loki, ELK  
+      • Threat Feeds + Trivy FS + CVE Alerting
+    </td>
+  </tr>
 </table>
+
 
 ---
 
