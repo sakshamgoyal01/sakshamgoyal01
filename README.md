@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=250&section=header&text=Saksham%20Goyal%20%F0%9F%92%BB&fontSize=50&fontColor=FFFFFF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=1000&lines=🚀+DevSecOps+Engineer+%7C+Cloud+Security+%7C+LLM+Tooling;🔐+Zero+Trust+Pipelines+%7C+GitOps+Automation+%7C+IaC+Security;🤖+Building+Secure+and+Intelligent+DevOps+Ecosystems!" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=1000&lines=🚀+DevSecOps+Engineer+%7C+Cloud+Security+%7C+LLM+Tooling;🔐+Zero+Trust+Pipelines+%7C+GitOps+Automation+%7C+IaC+Security;🤖+Building+Secure+and+Intelligent+DevOps+Ecosystems!)
 
 </div>
 
@@ -32,12 +32,9 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,gcp,jenkins,git,github,fastapi,streamlit,pytorch,nginx,postman,vscode,graphql" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,gcp,jenkins,git,github,fastapi,pytorch,nginx,postman,vscode,graphql" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshamgoyal01&theme=radical&margin-w=8&margin-h=8" />
-</p>
 
 ---
 
