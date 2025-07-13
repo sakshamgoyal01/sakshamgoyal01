@@ -47,13 +47,13 @@ core_values:
 <p align="center">
 
   <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/ai-soc-copilot/raw/main/assets/thumbnail.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/ai-soc-copilot/raw/main/p1.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/testpilot-ai/raw/main/assets/preview.png" alt="TestPilot AI" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/testpilot-ai/raw/main/p2.png" alt="TestPilot AI" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/k8s-11-services/raw/main/assets/k8s.png" alt="K8s 11 Services" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/k8s-11-services/raw/main/p3.png" alt="K8s 11 Services" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
 
 </p>
@@ -94,13 +94,13 @@ core_values:
 <p align="center">
 
   <a href="https://github.com/sakshamgoyal01" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/pentesting-suite/raw/main/assets/pentest.png" alt="Pentesting CLI" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/pentesting-suite/raw/main/p6.png" alt="Pentesting CLI" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/sakshamgoyal01" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/multi-hash-analyzer/raw/main/assets/hash.png" alt="Multi Hash Analyzer" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/multi-hash-analyzer/raw/main/p5.png" alt="Multi Hash Analyzer" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/sakshamgoyal01" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/zero-trust-pipeline/raw/main/assets/ztrust.png" alt="Zero Trust Pipeline" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/zero-trust-pipeline/raw/main/p4.png" alt="Zero Trust Pipeline" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
 
 </p>
