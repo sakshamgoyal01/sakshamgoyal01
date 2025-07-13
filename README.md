@@ -97,13 +97,40 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ## 🌱 What I'm Building / Exploring
 
-| 🚀 Area                        | 🔍 Focus                                                        |
-| ----------------------------- | --------------------------------------------------------------- |
-| 🔐 OPA + Gatekeeper           | K8s policies-as-code & compliance automation                    |
-| 🔁 Vault + SealedSecrets      | Secure secrets mgmt in CI/CD pipelines                          |
-| ☁️ Istio / Service Mesh       | Zero trust networking, observability & fine-grained control     |
-| 🤖 LangGraph & LangChain      | Multi-agent LLM orchestration for SecOps                         |
-| 📦 Trivy + ArgoCD            | Auto CVE scan, auto rollback, SBOM in GitOps deployments         |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">🚀 Area</th>
+      <th align="center">🔍 Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🔐 OPA + Gatekeeper</strong></td>
+      <td>Kubernetes <em>policies-as-code</em> & compliance enforcement</td>
+    </tr>
+    <tr>
+      <td><strong>🔁 Vault + SealedSecrets</strong></td>
+      <td>Secure <em>GitOps secrets management</em> in CI/CD pipelines</td>
+    </tr>
+    <tr>
+      <td><strong>☁️ Istio / Service Mesh</strong></td>
+      <td>Zero Trust mesh: <em>fine-grained traffic control</em> & observability</td>
+    </tr>
+    <tr>
+      <td><strong>🤖 LangGraph + LangChain</strong></td>
+      <td><em>LLM agent orchestration</em> for adaptive security workflows</td>
+    </tr>
+    <tr>
+      <td><strong>📦 Trivy + Argo CD</strong></td>
+      <td>Auto CVE scan, rollback, <em>SBOM GitOps deployment validation</em></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 ## 🌟 Featured Projects
