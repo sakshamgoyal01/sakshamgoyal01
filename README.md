@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=250&section=header&text=Saksham%20Goyal%20%F0%9F%92%BB&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:00FFF0,100:393E46&height=280&section=header&text=Saksham%20Goyal%20%F0%9F%92%BB&fontSize=48&fontAlign=50&fontColor=FFFFFF&fontAlignY=40&desc=DevSecOps%20Engineer%20%7C%20AI%20Security%20Builder%20%7C%20Cloud%20Infra%20Architect&descAlign=50&descSize=20&descAlignY=65" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00ADB5&center=true&vCenter=true&width=1000&lines=🚀+DevSecOps+Engineer+%7C+Cloud+Security+%7C+LLM+Tooling;🔐+Zero+Trust+Pipelines+%7C+GitOps+Automation+%7C+IaC+Security;🤖+Building+Secure+and+Intelligent+DevOps+Ecosystems!)
 
