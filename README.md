@@ -42,7 +42,7 @@ mission: Secure. Automate. Deploy. Inspire.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,git,github,jenkins,fastapi,streamlit,vscode,pytorch,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,git,github,jenkins,fastapi,vscode,pytorch,mysql,postman" />
 
 </div>
 
