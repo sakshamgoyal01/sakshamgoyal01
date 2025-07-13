@@ -31,33 +31,18 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
+| 🛠️ Core Skills | ☁️ Cloud & IaC |
+|----------------|----------------|
+| <img src="https://skillicons.dev/icons?i=python,bash,linux" height="25" /> <br>**Python**, **Bash**, **Linux**, YAML <br>CI/CD: **GitHub Actions**, **Jenkins** | <img src="https://skillicons.dev/icons?i=aws,azure,terraform" height="25" /> <br>**AWS**, **Azure**, **Terraform**, EC2, VPC <br>**Argo CD**, Verified Access |
 
-<!-- Row 1 -->
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="Languages & Shells" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=languages-and-shells&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=🛠️+Languages+%26+Shells" />
-</a>
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="Containers & Infra" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=containers-infra&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=🚢+Containers+%26+Infra" />
-</a>
+| 🚢 Containers & Infra | 🛡️ DevSecOps |
+|-----------------------|-------------|
+| <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="25" /> <br>**Docker**, **Kubernetes**, **Helm**, MicroK8s | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vault" height="25" /> <br>**Vault**, **Trivy**, **Syft**, **GuardDuty**, **SonarQube**, OPA |
 
-<!-- Row 2 -->
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="Cloud & IaC" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=cloud-iac&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=☁️+Cloud+%26+IaC" />
-</a>
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="DevSecOps Tooling" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=devsecops-tools&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=🛡️+DevSecOps+Tools" />
-</a>
+| 🤖 LLM & AI Stack | 📈 Monitoring |
+|------------------|---------------|
+| <img src="https://skillicons.dev/icons?i=fastapi,streamlit" height="25" /> <br>**OpenAI**, **LangChain**, **HuggingFace**, **FastAPI**, **Streamlit**, **Pinecone** | <img src="https://skillicons.dev/icons?i=prometheus" height="25" /> <br>**Prometheus**, **Grafana**, **Loki**, CVE Watcher |
 
-<!-- Row 3 -->
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="LLMs & AI Stack" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=ai-llm-stack&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=🤖+LLM+%26+AI+Stack" />
-</a>
-<a href="https://skillicons.dev" target="_blank">
-  <img width="380" alt="Monitoring & Observability" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshamgoyal01&repo=monitoring-stack&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5&bg_color=0d1117&hide_border=false&custom_title=📈+Monitoring+%26+Observability" />
-</a>
-
-</div>
 
 
 ---
