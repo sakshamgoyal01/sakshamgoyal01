@@ -94,15 +94,28 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ---
 
+---
+
 ## 📊 GitHub Insights
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sakshamgoyal01&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
-<img src="https://streak-stats.demolab.com/?user=sakshamgoyal01&theme=radical&hide_border=true" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=radical&hide_border=true" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgoyal01&theme=tokyonight" width="48%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshamgoyal01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgoyal01&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
 
 ---
 
