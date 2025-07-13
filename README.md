@@ -29,6 +29,8 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ---
 
+---
+
 ## ⚙️ Tech Arsenal
 
 <!-- Tech Cards Grid with Icons and Colors -->
