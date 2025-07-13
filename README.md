@@ -29,11 +29,35 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ---
 
+---
+
 ## ⚙️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,gcp,jenkins,git,github,fastapi,pytorch,nginx,postman,vscode,graphql" />
-</p>
+### 🚀 Core Proficiencies
+
+- **Languages:** Python 🐍 • Bash 🖥️ • YAML 📘  
+- **Cloud Platforms:** AWS ☁️ • Azure 💠 • EC2 • VPC • IAM  
+- **Containers & Orchestration:** Docker 🐳 • Kubernetes ⛵ • Helm ⚓ • MicroK8s  
+- **Infrastructure as Code:** Terraform ⚒️ • Argo CD 🌀 • AWS Verified Access 🔐  
+
+### 🛡️ DevSecOps Toolchain
+
+- **Security & Analysis:** Trivy 🔍 • SonarQube 🧠 • Syft • Grype • OPA + Gatekeeper  
+- **Secrets & Compliance:** Vault 🔐 • SealedSecrets 🧷 • SBOM 📦  
+- **Monitoring & Alerts:** Prometheus 📊 • Loki 📁 • Slack Alerts 🔔 • GuardDuty 🛡️  
+
+### 🤖 AI / LLM Stack
+
+- **Frameworks:** LangChain 🧠 • HuggingFace 🤗 • Sentence Transformers  
+- **Models & APIs:** OpenAI 💬 • Gemini 🧪 • DeepSeek • Cohere  
+- **Apps:** FastAPI ⚡ • Streamlit 📺 • Pinecone 🔎 • Weaviate 🧬  
+
+### 🔄 CI/CD & Automation
+
+- **CI Engines:** Jenkins 💥 • GitHub Actions ⚙️  
+- **Testing & QA:** Pytest 🧪 • OWASP ZAP ⚔️ • Custom YAML Validators  
+- **Deployment:** GitOps 🚀 • Auto Remediation 🛠️ • Slack/Email Notifications 📤  
+
 
 
 ---
