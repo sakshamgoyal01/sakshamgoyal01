@@ -31,17 +31,65 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ## ⚙️ Tech Arsenal
 
-| 🛠️ Core Skills | ☁️ Cloud & IaC |
-|----------------|----------------|
-| <img src="https://skillicons.dev/icons?i=python,bash,linux" height="25" /> <br>**Python**, **Bash**, **Linux**, YAML <br>CI/CD: **GitHub Actions**, **Jenkins** | <img src="https://skillicons.dev/icons?i=aws,azure,terraform" height="25" /> <br>**AWS**, **Azure**, **Terraform**, EC2, VPC <br>**Argo CD**, Verified Access |
+<div align="center">
 
-| 🚢 Containers & Infra | 🛡️ DevSecOps |
-|-----------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="25" /> <br>**Docker**, **Kubernetes**, **Helm**, MicroK8s | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vault" height="25" /> <br>**Vault**, **Trivy**, **Syft**, **GuardDuty**, **SonarQube**, OPA |
+<table>
+<tr>
+  <!-- Core Skills -->
+  <td align="center" width="400px">
+    <h3>🛠️ Core Skills</h3>
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,yaml&theme=dark" /><br><br>
+    <strong>Languages:</strong> Python, Bash, YAML<br>
+    <strong>Systems:</strong> Linux, Shell, CLI
+  </td>
 
-| 🤖 LLM & AI Stack | 📈 Monitoring |
-|------------------|---------------|
-| <img src="https://skillicons.dev/icons?i=fastapi,streamlit" height="25" /> <br>**OpenAI**, **LangChain**, **HuggingFace**, **FastAPI**, **Streamlit**, **Pinecone** | <img src="https://skillicons.dev/icons?i=prometheus" height="25" /> <br>**Prometheus**, **Grafana**, **Loki**, CVE Watcher |
+  <!-- Cloud & IaC -->
+  <td align="center" width="400px">
+    <h3>☁️ Cloud & IaC</h3>
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform&theme=dark" /><br><br>
+    <strong>Platforms:</strong> AWS, Azure, EC2, VPC<br>
+    <strong>Infra:</strong> Terraform, ArgoCD, Verified Access
+  </td>
+</tr>
+
+<tr>
+  <!-- Containers -->
+  <td align="center" width="400px">
+    <h3>🚢 Containers & Infra</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" /><br><br>
+    <strong>Stack:</strong> Docker, K8s, Helm, MicroK8s<br>
+    <strong>Tools:</strong> GitOps, Istio, SealedSecrets
+  </td>
+
+  <!-- DevSecOps -->
+  <td align="center" width="400px">
+    <h3>🛡️ DevSecOps</h3>
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,vault&theme=dark" /><br><br>
+    <strong>Security:</strong> Vault, Trivy, Syft, OPA<br>
+    <strong>Audit:</strong> GuardDuty, SonarQube, SBOM
+  </td>
+</tr>
+
+<tr>
+  <!-- LLM & AI -->
+  <td align="center" width="400px">
+    <h3>🤖 LLM & AI</h3>
+    <img src="https://skillicons.dev/icons?i=fastapi,streamlit&theme=dark" /><br><br>
+    <strong>Models:</strong> OpenAI, LangChain, HuggingFace<br>
+    <strong>Apps:</strong> FastAPI, Streamlit, Pinecone
+  </td>
+
+  <!-- Monitoring -->
+  <td align="center" width="400px">
+    <h3>📈 Monitoring</h3>
+    <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" /><br><br>
+    <strong>Metrics:</strong> Prometheus, Grafana<br>
+    <strong>Logs:</strong> Loki, ELK, CVE Watcher
+  </td>
+</tr>
+</table>
+
+</div>
 
 
 
