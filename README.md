@@ -42,18 +42,98 @@ core_values:
 
 ---
 
-## 💎 Project Showcase
+## 💼 Featured Projects Gallery
 
-| 🚀 Project Name                                                             | ⚙️ Stack                      | 💡 Description                                               |
-| --------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------ |
-| [🔐 AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)      | LangChain, K8s, Trivy         | Real-time CVE detection + LLM-based remediation engine       |
-| [☁️ Zero Trust CI/CD](https://github.com/sakshamgoyal01)                    | Jenkins, Terraform, GuardDuty | Secure pipeline w/ SonarQube, SBOM, EC2 deploy, Slack alerts |
-| [🧪 TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)           | FastAPI, Streamlit, OpenAI    | LLM assistant for testing ML and Infra pipelines             |
-| [🐳 K8s 11‑Service Mesh](https://github.com/sakshamgoyal01/k8s-11-services) | Helm, Mongo, NGINX, Redis     | Modular service mesh on Kubernetes w/ dashboards & CI/CD     |
-| [🛡️ Pentesting CLI](https://github.com/sakshamgoyal01)                     | Python, OWASP                 | Terminal-based Top 10 Scanner with HTML Reporting            |
-| [🔓 Multi‑Hash Analyzer](https://github.com/sakshamgoyal01)                 | Python, SlackBot              | Slack-integrated password hash cracker & FS monitor          |
+<p align="center">
+
+  <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/ai-soc-copilot/raw/main/assets/thumbnail.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/testpilot-ai/raw/main/assets/preview.png" alt="TestPilot AI" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/k8s-11-services/raw/main/assets/k8s.png" alt="K8s 11 Services" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+
+</p>
 
 ---
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01/ai-soc-copilot">🔐 AI‑SOC Co‑Pilot</a></h3>
+      <ul>
+        <li>🧠 LLM-powered CVE detection</li>
+        <li>🛡️ Auto-remediation via LangChain</li>
+        <li>📦 Tools: Trivy, K8s, Python</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01/testpilot-ai">🧪 TestPilot AI</a></h3>
+      <ul>
+        <li>🤖 AI QA assistant for testing pipelines</li>
+        <li>🚀 Built with Streamlit + FastAPI</li>
+        <li>🔗 OpenAI + LangChain integrated</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01/k8s-11-services">🐳 K8s 11‑Service Mesh</a></h3>
+      <ul>
+        <li>🧱 11 microservices in one mesh</li>
+        <li>📊 Real-time dashboards + GitOps</li>
+        <li>⚙️ Helm, Redis, MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+
+  <a href="https://github.com/sakshamgoyal01" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/pentesting-suite/raw/main/assets/pentest.png" alt="Pentesting CLI" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/sakshamgoyal01" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/multi-hash-analyzer/raw/main/assets/hash.png" alt="Multi Hash Analyzer" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/sakshamgoyal01" target="_blank">
+    <img src="https://github.com/sakshamgoyal01/zero-trust-pipeline/raw/main/assets/ztrust.png" alt="Zero Trust Pipeline" width="280" style="margin: 10px; border-radius: 12px;">
+  </a>
+
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01">🛡️ Pentesting CLI Suite</a></h3>
+      <ul>
+        <li>🕵️ Modular OWASP Top 10 Scanner</li>
+        <li>📄 Auto HTML Report Generation</li>
+        <li>⚙️ Python CLI with Scapy, Nmap</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01">🔓 Multi‑Hash Analyzer</a></h3>
+      <ul>
+        <li>🔐 Crack common hash algorithms</li>
+        <li>🧵 SlackBot Alerts + CI Trigger</li>
+        <li>📁 FS Monitoring + Alerts</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/sakshamgoyal01">☁️ Zero Trust CI/CD</a></h3>
+      <ul>
+        <li>⚠️ SBOM + CVE Scanning</li>
+        <li>🔔 Slack Notification via Jenkins</li>
+        <li>🔐 GuardDuty + EC2 Secure Deploy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+--
 
 ## 📚 Certifications
 
