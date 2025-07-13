@@ -31,91 +31,49 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ## ⚙️ Tech Arsenal
 
-<table>
-  <tr>
-    <!-- Core Skills -->
-    <td valign="top" width="50%">
+<div align="center">
 
-### 🛠️ Core Skills
+<!-- Row 1 -->
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="Languages & Shells" src="https://skillicons.dev/icons?i=python,bash,linux,yaml&theme=dark" />
+  <br><strong>🛠️ Languages & Shells</strong><br>
+  Python • Bash • Linux • YAML
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,yaml" /><br>
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="Containers & Orchestration" src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform&theme=dark" />
+  <br><strong>🚢 Containers & Infra</strong><br>
+  Docker • K8s • Helm • Terraform
+</a>
 
-- **Cloud Platforms:** AWS, Azure, EC2, VPC, IAM  
-- **Scripting:** Python, Bash, YAML  
-- **OS:** Linux (Debian/Ubuntu), Shell Tools  
+<!-- Row 2 -->
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="Cloud & IaC" src="https://skillicons.dev/icons?i=aws,azure,githubactions,jenkins&theme=dark" />
+  <br><strong>☁️ Cloud & CI/CD</strong><br>
+  AWS • Azure • GitHub Actions • Jenkins
+</a>
 
-</td>
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="Security Toolchain" src="https://skillicons.dev/icons?i=github,git,vault&theme=dark" />
+  <br><strong>🛡️ DevSecOps Tooling</strong><br>
+  Vault • Trivy • Syft • GuardDuty
+</a>
 
-    <!-- Containers & IaC -->
-    <td valign="top" width="50%">
+<!-- Row 3 -->
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="LLM/AI Stack" src="https://skillicons.dev/icons?i=fastapi,streamlit&theme=dark" />
+  <br><strong>🤖 LLMs & AI</strong><br>
+  LangChain • HuggingFace • OpenAI • Pinecone
+</a>
 
-### 🚢 Containers & Infrastructure
+<a href="https://skillicons.dev" target="_blank">
+  <img width="380" alt="Monitoring" src="https://skillicons.dev/icons?i=prometheus&theme=dark" />
+  <br><strong>📈 Monitoring</strong><br>
+  Prometheus • Grafana • Loki • CVE Watcher
+</a>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,helm" /><br>
+</div>
 
-- **Containers:** Docker, Kubernetes, Helm, MicroK8s  
-- **IaC:** Terraform, Argo CD  
-- **Security:** SealedSecrets, AWS Verified Access  
-
-</td>
-  </tr>
-
-  <tr>
-    <!-- DevSecOps -->
-    <td valign="top" width="50%">
-
-### 🛡️ DevSecOps Toolchain
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,vault" /><br>
-
-- **Security:** Trivy, Syft, Grype, SBOM  
-- **Static Analysis:** SonarQube, OPA + Gatekeeper  
-- **Secrets & Compliance:** Vault, GuardDuty, Slack Alerts  
-
-</td>
-
-    <!-- LLM & AI -->
-    <td valign="top" width="50%">
-
-### 🤖 LLM & AI Stack
-
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit" /><br>
-
-- **LLM Frameworks:** LangChain, HuggingFace, Sentence Transformers  
-- **APIs:** OpenAI, Gemini, DeepSeek  
-- **Vector DBs:** Pinecone, Weaviate  
-
-</td>
-  </tr>
-
-  <tr>
-    <!-- CI/CD -->
-    <td valign="top" width="50%">
-
-### 🔄 CI/CD & Automation
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins" /><br>
-
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Automation:** GitOps (ArgoCD), Slack Notifications  
-- **Testing:** Pytest, OWASP ZAP, YAML Linters  
-
-</td>
-
-    <!-- Monitoring & Observability -->
-    <td valign="top" width="50%">
-
-### 📈 Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=prometheus" /><br>
-
-- **Metrics:** Prometheus, Grafana  
-- **Logs:** Loki, ELK Stack  
-- **CVE Watchers:** Trivy FS, custom alert rules  
-
-</td>
-  </tr>
-</table>
 
 ---
 
