@@ -63,22 +63,48 @@ mission: Secure. Automate. Deploy. Inspire.
 
 ---
 
-### 📜 Certifications & Learning
+### 🏅 Certifications & 📚 Learning Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20AZ--400-blue?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-GenAI-red?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Forage%20Sim-green?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+<div align="center">
 
-📖 Currently exploring:
+<table>
+  <tr>
+    <td align="center" width="190">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="60"/><br>
+      <strong>Microsoft AZ‑400</strong><br>
+      <sub>Enterprise DevOps Engineering</sub><br>
+      <sup><code>May 2025</code></sup>
+    </td>
+    <td align="center" width="190">
+      <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="60"/><br>
+      <strong>Google Cloud GenAI</strong><br>
+      <sub>Generative AI Skill Badge</sub><br>
+      <sup><code>Dec 2023</code></sup>
+    </td>
+    <td align="center" width="190">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"/><br>
+      <strong>AWS Forage Sim</strong><br>
+      <sub>Solutions Architect Simulation</sub><br>
+      <sup><code>Dec 2024</code></sup>
+    </td>
+  </tr>
+</table>
 
-* `OPA + Gatekeeper` policy-as-code
-* `Multi-agent LLM orchestration` with LangGraph
-* `Zero Trust Service Mesh` using Istio
+</div>
 
 ---
 
+### 🧠 Currently Diving Into
+
+| 📘 Topic | 💡 Focus |
+|---------|----------|
+| 🔐 **OPA + Gatekeeper** | Writing policy-as-code for K8s admission control |
+| 🤖 **Multi-agent LLMs** | Using LangGraph to coordinate intelligent agents |
+| 🧱 **Zero Trust Mesh** | Implementing Istio for east-west service security |
+| 🔎 **Threat Detection** | Real-time CVE triage and SBOM analysis |
+| 🚀 **GitOps+Security** | Seamless Argo CD + Trivy + Vault CI pipelines |
+
+---
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
