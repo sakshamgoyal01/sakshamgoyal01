@@ -47,7 +47,7 @@ core_values:
 <p align="center">
 
   <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/ai-soc-copilot/raw/main/p1.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
+    <img src="https://github.com/sakshamgoyal01/p1.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
     <img src="https://github.com/sakshamgoyal01/testpilot-ai/raw/main/p2.png" alt="TestPilot AI" width="280" style="margin: 10px; border-radius: 12px;">
