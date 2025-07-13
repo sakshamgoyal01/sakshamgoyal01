@@ -52,14 +52,66 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 
 ## 🌟 Featured Projects
 
-| ✨ Project                                                                   | 🔧 Stack                        | 📌 Highlights                                               |
-| --------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------- |
-| [🔐 AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)      | K8s, Trivy, LangChain           | CVE scans, LLM explanations, auto-remediation, SlackOps    |
-| [☁️ Zero Trust CI/CD](https://github.com/sakshamgoyal01)                    | Jenkins, Terraform, GuardDuty   | SBOM, SonarQube, Slack alerts, IAM enforcement             |
-| [🧪 TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)           | LLM, FastAPI, Streamlit         | AI assistant for test automation in DevSecOps pipelines    |
-| [🐙 K8s 11‑Service Mesh](https://github.com/sakshamgoyal01/k8s-11-services) | Helm, Istio, Mongo, NGINX       | Live dashboards, multi-service mesh, Redis caching         |
-| [🛡️ Pentesting CLI](https://github.com/sakshamgoyal01)                     | Python, OWASP                   | Modular CLI, scans OWASP Top 10, HTML reports              |
-| [🔎 Multi‑Hash Analyzer](https://github.com/sakshamgoyal01)                 | Python, SlackBot                | Password hash checker, FS monitor, CI notifications        |
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01/ai-soc-copilot">
+        <img src="https://skillicons.dev/icons?i=kubernetes,trivy,python&theme=dark" height="30"/>
+        <br>
+        <b>🔐 AI‑SOC Co‑Pilot</b><br>
+        <sub>Real-time CVE scans, LLM explanations, auto-remediation, SlackOps</sub>
+      </a>
+    </td>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01">
+        <img src="https://skillicons.dev/icons?i=jenkins,terraform,aws&theme=dark" height="30"/>
+        <br>
+        <b>☁️ Zero Trust CI/CD</b><br>
+        <sub>SBOM, SonarQube, Slack alerts, IAM enforcement</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01/testpilot-ai">
+        <img src="https://skillicons.dev/icons?i=fastapi,streamlit,python&theme=dark" height="30"/>
+        <br>
+        <b>🧪 TestPilot AI</b><br>
+        <sub>AI test assistant for DevSecOps pipelines</sub>
+      </a>
+    </td>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01/k8s-11-services">
+        <img src="https://skillicons.dev/icons?i=helm,nginx,mongodb&theme=dark" height="30"/>
+        <br>
+        <b>🐙 K8s 11‑Service Mesh</b><br>
+        <sub>Live dashboards, multi-service mesh, Redis caching</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01">
+        <img src="https://skillicons.dev/icons?i=python,security&theme=dark" height="30"/>
+        <br>
+        <b>🛡️ Pentesting CLI</b><br>
+        <sub>OWASP Top 10 scanner, modular CLI, HTML reports</sub>
+      </a>
+    </td>
+    <td width="300">
+      <a href="https://github.com/sakshamgoyal01">
+        <img src="https://skillicons.dev/icons?i=python,slack&theme=dark" height="30"/>
+        <br>
+        <b>🔎 Multi‑Hash Analyzer</b><br>
+        <sub>Password hash checker, FS monitor, CI alerts</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
