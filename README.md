@@ -42,53 +42,83 @@ core_values:
 
 ---
 
-## 💼 Featured Projects Gallery
+## 💼 Featured Projects – Elegant Gallery
 
-<p align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-  <a href="https://github.com/sakshamgoyal01/ai-soc-copilot" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/p1.png" alt="AI‑SOC Co‑Pilot" width="280" style="margin: 10px; border-radius: 12px;">
-  </a>
-  <a href="https://github.com/sakshamgoyal01/testpilot-ai" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/testpilot-ai/raw/main/p2.png" alt="TestPilot AI" width="280" style="margin: 10px; border-radius: 12px;">
-  </a>
-  <a href="https://github.com/sakshamgoyal01/k8s-11-services" target="_blank">
-    <img src="https://github.com/sakshamgoyal01/k8s-11-services/raw/main/p3.png" alt="K8s 11 Services" width="280" style="margin: 10px; border-radius: 12px;">
-  </a>
+### 🔐 [AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)
 
-</p>
+> **Stack:** Kubernetes, Trivy, LangChain, Python  
+> **Highlights:**
+> - 🧠 Real-time CVE detection & threat analysis  
+> - 🔄 LLM-assisted remediation suggestions  
+> - 📦 Deployable agent for modern SOCs  
+
+---
+
+### 🧪 [TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)
+
+> **Stack:** FastAPI, Streamlit, LangChain, OpenAI  
+> **Highlights:**
+> - 🤖 Auto-generates test cases & debugging flows  
+> - 🔍 NLP-powered test intelligence for DevOps  
+> - 🧠 LLM-driven app validation assistant  
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [K8s 11‑Service Mesh](https://github.com/sakshamgoyal01/k8s-11-services)
+
+> **Stack:** Helm, Redis, MongoDB, NGINX, Jenkins  
+> **Highlights:**
+> - 📦 11 interconnected microservices  
+> - ⚙️ GitOps CI/CD & live monitoring dashboards  
+> - 🧱 Built-in autoscaling & health probes  
+
+---
+
+### ☁️ [Zero Trust CI/CD Pipeline](https://github.com/sakshamgoyal01)
+
+> **Stack:** Jenkins, Terraform, GuardDuty, Slack  
+> **Highlights:**
+> - 🔐 CVE + SBOM enforcement in pipeline  
+> - 🧑‍💻 Policy as Code with OPA + SealedSecrets  
+> - 📩 Real-time Slack notifications & scan results  
+
+</td>
+  </tr>
+</table>
 
 ---
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3><a href="https://github.com/sakshamgoyal01/ai-soc-copilot">🔐 AI‑SOC Co‑Pilot</a></h3>
-      <ul>
-        <li>🧠 LLM-powered CVE detection</li>
-        <li>🛡️ Auto-remediation via LangChain</li>
-        <li>📦 Tools: Trivy, K8s, Python</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3><a href="https://github.com/sakshamgoyal01/testpilot-ai">🧪 TestPilot AI</a></h3>
-      <ul>
-        <li>🤖 AI QA assistant for testing pipelines</li>
-        <li>🚀 Built with Streamlit + FastAPI</li>
-        <li>🔗 OpenAI + LangChain integrated</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3><a href="https://github.com/sakshamgoyal01/k8s-11-services">🐳 K8s 11‑Service Mesh</a></h3>
-      <ul>
-        <li>🧱 11 microservices in one mesh</li>
-        <li>📊 Real-time dashboards + GitOps</li>
-        <li>⚙️ Helm, Redis, MongoDB</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    <td width="50%" valign="top">
 
+### 🛡️ [Pentesting CLI Suite](https://github.com/sakshamgoyal01)
+
+> **Stack:** Python, OWASP, CLI, HTML Reports  
+> **Highlights:**
+> - 🕵️ Modular scans for OWASP Top 10  
+> - 📝 Generates detailed audit-ready reports  
+> - 🧪 Easily extendable plug-in framework  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔓 [Multi‑Hash Analyzer](https://github.com/sakshamgoyal01)
+
+> **Stack:** Python, SlackBot, Hashlib  
+> **Highlights:**
+> - 🔐 Detects and cracks hash algorithms  
+> - 📁 Monitors file system & triggers Slack alerts  
+> - 📊 Integrates with CI for early breach detection  
+
+</td>
+</tr>
+</table>
 ---
 
 <p align="center">
