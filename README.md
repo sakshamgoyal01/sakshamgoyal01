@@ -1,13 +1,10 @@
 
-<!-- 💫 Saksham Goyal GitHub Profile - Elegant DevSecOps Portfolio -->
+<!-- 🌐 Elite DevSecOps + AI Portfolio — Saksham Goyal -->
 
-<!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Saksham%20Goyal%20👨‍💻&fontSize=50&fontColor=ffffff" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Final+Year+B.Tech+%7C+DevSecOps+Engineer+%7C+LLM+Security+Builder;Zero+Trust+Cloud-Native+Pipelines+%7C+Automation+First+Mindset;Let%E2%80%99s+Secure+and+Automate+the+Future!+%F0%9F%94%91" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00adb5&height=220&section=header&text=Saksham%20Goyal%20👨‍💻&fontSize=48&fontColor=ffffff" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&color=00ADB5&width=800&lines=Final+Year+B.Tech+%7C+DevSecOps+Engineer+%7C+LLM+Security+Builder;Automation-First+Mindset+%7C+Zero+Trust+Cloud+Pipelines;Securing+AI%2C+One+Container+at+a+Time+🔒🚀" />
 </div>
 
 ---
@@ -16,30 +13,30 @@
 
 ```yaml
 name: Saksham Goyal
-title: DevSecOps • AI-Driven Security • Cloud-Native Automation
-based_in: Delhi, India 🇮🇳
-education: B.Tech CSE (AI/ML) – AKTU
+title: DevSecOps • Cloud-Native Security • AI Automation
+location: Delhi, India 🇮🇳
+degree: B.Tech CSE (AI/ML) — AKTU
 certifications: [AZ-400, Google Cloud GenAI, AWS Forage]
-tools:
-  - CI/CD: Jenkins, GitHub Actions
-  - DevSecOps: Trivy, SonarQube, Syft, Vault
-  - Cloud: Kubernetes, AWS, Terraform, Argo CD
-  - AI/LLMs: HuggingFace, LangChain, OpenAI
+philosophy: "Secure by design. Automated by intent. Scaled by AI."
 ````
 
-💬 I love building systems that are **🔒 secure by default**, **🚀 automated end-to-end**, and **🧠 smarter with AI**.
+💬 I specialize in building systems that are:
+
+* 🔐 **Secure by default** using Zero Trust principles
+* ⚙️ **Automated from commit to deploy** using GitOps/CI/CD
+* 🤖 **Augmented with LLMs** for adaptive, intelligent security
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,jenkins,git,github,fastapi,streamlit,vscode,pytorch,nginx,postman" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,jenkins,git,github,vscode,fastapi,streamlit,pytorch,nginx,postman" />
 </p>
 
 ---
 
-## 💼 Featured Projects – Elegant Gallery
+## 💼 Signature Projects
 
 <table>
   <tr>
@@ -47,46 +44,41 @@ tools:
 
 ### 🔐 [AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)
 
-> **Stack:** Kubernetes, Trivy, LangChain, Python
-> **Highlights:**
->
-> * 🧠 Real-time CVE detection & threat analysis
-> * 🔄 LLM-assisted remediation suggestions
-> * 📦 Deployable agent for modern SOCs
+> **K8s • Trivy • LangChain**
+
+* Real-time CVE detection + remediation agent
+* LLM-powered SOC assistant
+* GitOps-friendly Kubernetes deployment
 
 ---
 
 ### 🧪 [TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)
 
-> **Stack:** FastAPI, Streamlit, LangChain, OpenAI
-> **Highlights:**
->
-> * 🤖 Auto-generates test cases & debugging flows
-> * 🔍 NLP-powered test intelligence for DevOps
-> * 🧠 LLM-driven app validation assistant
+> **FastAPI • Streamlit • OpenAI**
 
-</td>
-<td width="50%" valign="top">
+* AI-based ML/DevOps debugging assistant
+* Auto-generates test cases & validation prompts
+* Interactive visual test flows
+
+</td><td width="50%" valign="top">
 
 ### 🐳 [K8s 11‑Service Mesh](https://github.com/sakshamgoyal01/k8s-11-services)
 
-> **Stack:** Helm, Redis, MongoDB, NGINX, Jenkins
-> **Highlights:**
->
-> * 📦 11 interconnected microservices
-> * ⚙️ GitOps CI/CD & live monitoring dashboards
-> * 🧱 Built-in autoscaling & health probes
+> **Helm • Redis • Jenkins**
+
+* 11 microservices deployed with full CI/CD
+* GitHub Actions + Prometheus dashboard
+* Mongo, NGINX, horizontal autoscaling
 
 ---
 
-### ☁️ [Zero Trust CI/CD Pipeline](https://github.com/sakshamgoyal01)
+### ☁️ [Zero Trust CI/CD](https://github.com/sakshamgoyal01)
 
-> **Stack:** Jenkins, Terraform, GuardDuty, Slack
-> **Highlights:**
->
-> * 🔐 CVE + SBOM enforcement in pipeline
-> * 🧑‍💻 Policy as Code with OPA + SealedSecrets
-> * 📩 Real-time Slack notifications & scan results
+> **Terraform • Jenkins • OPA**
+
+* CI/CD hardened with SBOM, CVE scans, GuardDuty
+* Secrets via Vault & SealedSecrets
+* Slack-integrated audit trail
 
 </td>
   </tr>
@@ -98,55 +90,53 @@ tools:
   <tr>
     <td width="50%" valign="top">
 
-### 🛡️ [Pentesting CLI Suite](https://github.com/sakshamgoyal01)
+### 🛡️ [Pentesting Suite](https://github.com/sakshamgoyal01)
 
-> **Stack:** Python, OWASP, CLI, HTML Reports
-> **Highlights:**
->
-> * 🕵️ Modular scans for OWASP Top 10
-> * 📝 Generates detailed audit-ready reports
-> * 🧪 Easily extendable plug-in framework
+> **Python • OWASP Top 10**
+
+* CLI scanner with modular architecture
+* HTML-based reporting dashboard
+* Easily extensible via YAML profiles
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 ### 🔓 [Multi‑Hash Analyzer](https://github.com/sakshamgoyal01)
 
-> **Stack:** Python, SlackBot, Hashlib
-> **Highlights:**
->
-> * 🔐 Detects and cracks hash algorithms
-> * 📁 Monitors file system & triggers Slack alerts
-> * 📊 Integrates with CI for early breach detection
+> **SlackBot • FS Watcher • Python**
+
+* Hash ID & cracking tool with CI alerts
+* Slack notification bot for breach signals
+* Filesystem monitor + cron integration
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-### 📜 Certifications
+## 🎓 Certifications
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="190">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="60"/><br>
+    <td align="center" width="220">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="55"/><br>
       <strong>Microsoft AZ‑400</strong><br>
-      <sub>Enterprise DevOps</sub><br>
+      <sub>Enterprise DevOps Engineer</sub><br>
       <sup><code>May 2025</code></sup>
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="60"/><br>
+    <td align="center" width="220">
+      <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="55"/><br>
       <strong>Google Cloud GenAI</strong><br>
-      <sub>Generative AI Badge</sub><br>
+      <sub>Generative AI Certification</sub><br>
       <sup><code>Dec 2023</code></sup>
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"/><br>
+    <td align="center" width="220">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/><br>
       <strong>AWS Forage</strong><br>
-      <sub>Solutions Architect Sim</sub><br>
+      <sub>Solutions Architect Virtual Experience</sub><br>
       <sup><code>Dec 2024</code></sup>
     </td>
   </tr>
@@ -156,31 +146,29 @@ tools:
 
 ---
 
-### 🧠 Current Focus
+## 🧠 What I’m Learning Now
 
-| 📘 Topic            | 🚀 What I'm Exploring             |
-| ------------------- | --------------------------------- |
-| 🔐 OPA + Gatekeeper | Policies as Code in K8s           |
-| 🤖 LangGraph        | Multi-agent LLM Systems           |
-| 🧱 Istio            | Zero Trust Service Mesh           |
-| 🧪 Trivy + Argo CD  | GitOps + CVE Scanning             |
-| 🔁 Secrets Mgmt     | Vault + SealedSecrets Integration |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=gradient&hide_border=true&count_private=true" height="180px" />
-<img src="https://streak-stats.demolab.com/?user=sakshamgoyal01&theme=gradient&hide_border=true" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=gradient&hide_border=true" height="180px" />
-
-</div>
+| 📘 Topic            | 🚀 Deep Dive                       |
+| ------------------- | ---------------------------------- |
+| 🔐 OPA + Gatekeeper | Kubernetes Policy-as-Code (PaC)    |
+| 🤖 LangGraph Agents | Event-driven LLM Orchestration     |
+| 🧱 Istio            | Secure Mesh in Zero Trust Networks |
+| 🔁 Vault + Argo CD  | GitOps Secrets Lifecycle           |
+| 🧪 Trivy in CI/CD   | CVE/License Scanning in Pipelines  |
 
 ---
 
-### 💌 Let's Connect
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=sakshamgoyal01&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=radical&hide_border=true" height="180px" />
+</p>
+
+---
+
+### 💬 Let’s Connect & Collaborate
 
 <p align="center">
   <a href="mailto:sakshamgoyal0301@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -191,10 +179,10 @@ tools:
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-<i>“Secure by design, scalable by default, intelligent by evolution.”</i> <br> <i>\~ Saksham Goyal 🚀</i>
+<i><b>“Secure by design. Automated by intent. Scaled by AI.”</b></i> <br>\~ Saksham Goyal 🚀
 
 </div>
 ```
+
