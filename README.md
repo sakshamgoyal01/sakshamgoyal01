@@ -1,14 +1,12 @@
 
-<!-- ⚡ Saksham Goyal GitHub Profile README - Classy Portfolio Edition -->
+<!-- 💫 Saksham Goyal GitHub Profile - Elegant Portfolio Edition -->
 
-<!-- HEADER SECTION -->
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=250&section=header&text=Saksham%20Goyal%20👨‍💻&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Saksham%20Goyal%20👨‍💻&fontSize=50&fontColor=ffffff" />
 
-<h2 align="center">💻 DevSecOps • AI • Cloud‑Native Engineer — Secure Systems Architect</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Final+Year+B.Tech+%28AI+ML%29;DevSecOps+%7C+LLM+Security+%7C+Zero+Trust+CI%2FCD;Building+Secure+Intelligent+Infra" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+%7C+DevSecOps+Engineer+%7C+LLM+Security+Builder;Zero+Trust+Cloud-Native+Pipelines+%7C+Automation+First+Mindset;Let%E2%80%99s+Secure+and+Automate+the+Future!+%F0%9F%94%91" />
 
 </div>
 
@@ -18,52 +16,44 @@
 
 ```yaml
 name: Saksham Goyal
-title: DevSecOps • Cloud-Native • AI Security Engineer
-location: Delhi, India
+title: DevSecOps • AI-Driven Security • Cloud-Native Automation
+based_in: Delhi, India 🇮🇳
+education: B.Tech CSE (AI/ML) – AKTU
+certifications: [AZ-400, Google Cloud GenAI, AWS Forage]
 tools:
-  - Kubernetes, Docker, Terraform, Jenkins, ArgoCD
-  - Trivy, SonarQube, Syft, GitHub Actions
-  - LangChain, HuggingFace, OpenAI, Streamlit
-certifications:
-  - Microsoft AZ-400 (Enterprise DevOps)
-  - Google Cloud GenAI
-  - AWS Forage Solutions Architect
-mission: Secure. Automate. Deploy. Inspire.
+  - CI/CD: Jenkins, GitHub Actions
+  - DevSecOps: Trivy, SonarQube, Syft, Vault
+  - Cloud: Kubernetes, AWS, Terraform, Argo CD
+  - AI/LLMs: HuggingFace, LangChain, OpenAI
 ````
 
-🔭 I build intelligent security-first pipelines
-🧪 Experimenting with LLM-powered threat analytics
-🛡️ Enforcing Zero Trust from code to cloud
-💡 Obsessed with automation, clean architecture & high impact
+💬 Passionate about building systems that are
+**🔒 Secure by default**, **🚀 Automated end-to-end**, and **🧠 Smarter with AI**
 
 ---
 
-### ⚙️ Tech Toolbox
+### ⚙️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,git,github,jenkins,fastapi,streamlit,vscode,pytorch,mysql,postman" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,terraform,aws,azure,jenkins,git,github,fastapi,streamlit,vscode,pytorch,nginx,postman" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Featured Projects Gallery
 
-> 👇 Click project titles to explore architecture and repos
-
-| 🧠 Project                                                                      | 🔧 Stack                         | 📌 Description                                                 |
-| ------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------- |
-| [🔐 AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)          | K8s, Trivy, LangChain, ArgoCD    | AI‑powered SOC with CVE triage, SBOM, automated remediations   |
-| [☁️ Zero Trust Pipeline](https://github.com/sakshamgoyal01/zero-trust-pipeline) | Jenkins, Terraform, GuardDuty    | Secure CI/CD with scanner gates, SBOM, Verified Access         |
-| [🧪 TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)               | Python, FastAPI, Streamlit, LLMs | Interactive AI‑powered testing assistant for data/ML devs      |
-| [🐳 Kubernetes 11‑Services](https://github.com/sakshamgoyal01/k8s-11-services)  | K8s, Helm, Nginx, Redis, MongoDB | Real‑world Kubernetes demo with 11 microservices & CI/CD       |
-| [🛡️ Web Pentesting Suite](https://github.com/sakshamgoyal01/pentest-suite)     | Python, CLI, OWASP               | Modular OWASP Top 10 vulnerability scanner with visualizations |
-| [🔍 Multi‑Hash Analyzer](https://github.com/sakshamgoyal01/multi-hash-analyzer) | Python, Trivy, Slack CI Bot      | Hash cracker + password security analyzer integrated in CI     |
+| 💎 Project                                                                     | Stack                         | What It Does                                              |
+| ------------------------------------------------------------------------------ | ----------------------------- | --------------------------------------------------------- |
+| [🔐 AI‑SOC Co‑Pilot](https://github.com/sakshamgoyal01/ai-soc-copilot)         | K8s, Trivy, LangChain         | SOC agent with real-time CVE detection & auto-remediation |
+| [☁️ Zero Trust CI/CD Pipeline](https://github.com/sakshamgoyal01)              | Jenkins, Terraform, GuardDuty | SBOM, SonarQube, Slack alerts, deployed to EC2            |
+| [🧪 TestPilot AI](https://github.com/sakshamgoyal01/testpilot-ai)              | LLM, FastAPI, Streamlit       | Interactive AI assistant to test & debug ML/DevOps apps   |
+| [🐳 Kubernetes 11‑Services](https://github.com/sakshamgoyal01/k8s-11-services) | Helm, Redis, Mongo, NGINX     | 11 services deployed on K8s with CI/CD & live dashboard   |
+| [🛡️ Pentesting Suite](https://github.com/sakshamgoyal01)                      | Python, OWASP                 | Modular CLI scanner for OWASP Top 10 with HTML report     |
+| [🔓 Multi‑Hash Analyzer](https://github.com/sakshamgoyal01)                    | Python, SlackBot              | Password hash cracker with FS scan & Slack CI alerts      |
 
 ---
 
-### 🏅 Certifications & 📚 Learning Journey
+### 📜 Certifications & 📚 Learning
 
 <div align="center">
 
@@ -72,19 +62,19 @@ mission: Secure. Automate. Deploy. Inspire.
     <td align="center" width="190">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="60"/><br>
       <strong>Microsoft AZ‑400</strong><br>
-      <sub>Enterprise DevOps Engineering</sub><br>
+      <sub>Enterprise DevOps</sub><br>
       <sup><code>May 2025</code></sup>
     </td>
     <td align="center" width="190">
       <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="60"/><br>
       <strong>Google Cloud GenAI</strong><br>
-      <sub>Generative AI Skill Badge</sub><br>
+      <sub>Generative AI Badge</sub><br>
       <sup><code>Dec 2023</code></sup>
     </td>
     <td align="center" width="190">
       <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"/><br>
-      <strong>AWS Forage Sim</strong><br>
-      <sub>Solutions Architect Simulation</sub><br>
+      <strong>AWS Forage</strong><br>
+      <sub>Solutions Architect Sim</sub><br>
       <sup><code>Dec 2024</code></sup>
     </td>
   </tr>
@@ -94,47 +84,46 @@ mission: Secure. Automate. Deploy. Inspire.
 
 ---
 
-### 🧠 Currently Diving Into
+### 🧠 Current Focus
 
-| 📘 Topic | 💡 Focus |
-|---------|----------|
-| 🔐 **OPA + Gatekeeper** | Writing policy-as-code for K8s admission control |
-| 🤖 **Multi-agent LLMs** | Using LangGraph to coordinate intelligent agents |
-| 🧱 **Zero Trust Mesh** | Implementing Istio for east-west service security |
-| 🔎 **Threat Detection** | Real-time CVE triage and SBOM analysis |
-| 🚀 **GitOps+Security** | Seamless Argo CD + Trivy + Vault CI pipelines |
+| 📘 Topic            | 🚀 What I'm Exploring             |
+| ------------------- | --------------------------------- |
+| 🔐 OPA + Gatekeeper | Policies as Code in K8s           |
+| 🤖 LangGraph        | Multi-agent LLM Systems           |
+| 🧱 Istio            | Zero Trust Service Mesh           |
+| 🧪 Trivy + Argo CD  | GitOps + CVE Scanning             |
+| 🔁 Secrets Mgmt     | Vault + SealedSecrets Integration |
 
 ---
-### 📊 GitHub Activity & Stats
+
+### 📊 GitHub Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=onedark&hide_border=true&count_private=true&custom_title=Saksham's%20GitHub%20Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=onedark&hide_border=true" height="180px" />
-<img src="https://streak-stats.demolab.com/?user=sakshamgoyal01&theme=onedark&hide_border=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakshamgoyal01&show_icons=true&theme=gradient&hide_border=true&count_private=true" height="180px" />
+<img src="https://streak-stats.demolab.com/?user=sakshamgoyal01&theme=gradient&hide_border=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgoyal01&layout=compact&theme=gradient&hide_border=true" height="180px" />
 
 </div>
 
 ---
 
-### 📫 Let's Connect & Build
+### 💌 Let’s Connect & Collaborate!
 
 <p align="center">
-  <a href="mailto:sakshamgoyal0301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saksham-goyal-ab3a1817b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sakshamgoyal01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sakshamgoyal0301@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saksham-goyal-ab3a1817b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sakshamgoyal01"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-<i>Let’s automate security and intelligence — one commit at a time ⚡</i>
+<i>“Secure by design, scalable by default, intelligent by evolution.”</i> <i>\~ Saksham Goyal 🚀</i>
 
 </div>
 ```
-
----
 
