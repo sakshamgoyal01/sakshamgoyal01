@@ -199,7 +199,11 @@ motto: "Secure by design · Scalable by default · Intelligent by evolution"
 ---
 ## 📄 Download My Resume
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=github)](https://github.com/sakshamgoyal01/sakshamgoyal01/blob/main/Saksham_Goyal_Resume.pdf)
+<p align="center">
+  <a href="https://github.com/sakshamgoyal01/your-repo-name/raw/main/Saksham_Goyal_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
